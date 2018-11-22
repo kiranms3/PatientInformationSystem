@@ -1,0 +1,9 @@
+c:\users\m1023142\documents\visual studio 2015\Projects\PatientInformationSystem.Public.Web\PatientInformationSystem.Services.Core\bin\Debug\PatientInformationSystem.Services.Core.dll
+c:\users\m1023142\documents\visual studio 2015\Projects\PatientInformationSystem.Public.Web\PatientInformationSystem.Services.Core\bin\Debug\PatientInformationSystem.Services.Core.pdb
+c:\users\m1023142\documents\visual studio 2015\Projects\PatientInformationSystem.Public.Web\PatientInformationSystem.Services.Core\bin\Debug\PatientInformationSystem.Services.Data.dll
+c:\users\m1023142\documents\visual studio 2015\Projects\PatientInformationSystem.Public.Web\PatientInformationSystem.Services.Core\bin\Debug\PatientInformationSystem.Services.Entities.dll
+c:\users\m1023142\documents\visual studio 2015\Projects\PatientInformationSystem.Public.Web\PatientInformationSystem.Services.Core\bin\Debug\PatientInformationSystem.Services.Data.pdb
+c:\users\m1023142\documents\visual studio 2015\Projects\PatientInformationSystem.Public.Web\PatientInformationSystem.Services.Core\bin\Debug\PatientInformationSystem.Services.Entities.pdb
+c:\users\m1023142\documents\visual studio 2015\Projects\PatientInformationSystem.Public.Web\PatientInformationSystem.Services.Core\obj\Debug\PatientInformationSystem.Services.Core.csprojResolveAssemblyReference.cache
+c:\users\m1023142\documents\visual studio 2015\Projects\PatientInformationSystem.Public.Web\PatientInformationSystem.Services.Core\obj\Debug\PatientInformationSystem.Services.Core.dll
+c:\users\m1023142\documents\visual studio 2015\Projects\PatientInformationSystem.Public.Web\PatientInformationSystem.Services.Core\obj\Debug\PatientInformationSystem.Services.Core.pdb

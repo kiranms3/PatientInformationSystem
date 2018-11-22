@@ -1,0 +1,7 @@
+c:\users\m1023142\documents\visual studio 2015\Projects\PatientInformationSystem.Public.Web\PatientInformationSystem.Services.Data\bin\Debug\PatientInformationSystem.Services.Data.dll
+c:\users\m1023142\documents\visual studio 2015\Projects\PatientInformationSystem.Public.Web\PatientInformationSystem.Services.Data\bin\Debug\PatientInformationSystem.Services.Data.pdb
+c:\users\m1023142\documents\visual studio 2015\Projects\PatientInformationSystem.Public.Web\PatientInformationSystem.Services.Data\bin\Debug\PatientInformationSystem.Services.Entities.dll
+c:\users\m1023142\documents\visual studio 2015\Projects\PatientInformationSystem.Public.Web\PatientInformationSystem.Services.Data\bin\Debug\PatientInformationSystem.Services.Entities.pdb
+c:\users\m1023142\documents\visual studio 2015\Projects\PatientInformationSystem.Public.Web\PatientInformationSystem.Services.Data\obj\Debug\PatientInformationSystem.Services.Data.csprojResolveAssemblyReference.cache
+c:\users\m1023142\documents\visual studio 2015\Projects\PatientInformationSystem.Public.Web\PatientInformationSystem.Services.Data\obj\Debug\PatientInformationSystem.Services.Data.dll
+c:\users\m1023142\documents\visual studio 2015\Projects\PatientInformationSystem.Public.Web\PatientInformationSystem.Services.Data\obj\Debug\PatientInformationSystem.Services.Data.pdb

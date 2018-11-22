@@ -1,0 +1,4 @@
+c:\users\m1023142\documents\visual studio 2015\Projects\PatientInformationSystem.Public.Web\PatientInformationSystem.Public.Entities\bin\Debug\PatientInformationSystem.Public.Entities.dll
+c:\users\m1023142\documents\visual studio 2015\Projects\PatientInformationSystem.Public.Web\PatientInformationSystem.Public.Entities\bin\Debug\PatientInformationSystem.Public.Entities.pdb
+c:\users\m1023142\documents\visual studio 2015\Projects\PatientInformationSystem.Public.Web\PatientInformationSystem.Public.Entities\obj\Debug\PatientInformationSystem.Public.Entities.dll
+c:\users\m1023142\documents\visual studio 2015\Projects\PatientInformationSystem.Public.Web\PatientInformationSystem.Public.Entities\obj\Debug\PatientInformationSystem.Public.Entities.pdb
